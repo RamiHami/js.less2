@@ -10,7 +10,7 @@ function mult(a, b) {
     return a * b
 }
 
-function deg(a, b) {
+function deg(a, b) { 
     return a / b
 }
 
